@@ -1,6 +1,6 @@
 <?php
 
-namespace HelloWorld;
+namespace kadauber\HelloWorld;
 
 class SayHello
 {
