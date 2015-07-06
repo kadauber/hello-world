@@ -1,0 +1,12 @@
+{
+    "name": "kdauber/hello-world",
+    "description": "My first Composer project",
+    "authors": [
+        {
+            "name": "Kimberly Dauber",
+            "email": "kdauber@basistech.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
